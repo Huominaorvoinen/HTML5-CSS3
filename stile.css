@@ -478,4 +478,15 @@
 .footer .footer_content .footer_info .footer_contacts .footer_part .footer_icon:not(:last-of-type) {
   margin-right: 3px;
 }
+
+.footer .footer_copyright {
+  background-color: #fff;
+  text-align: center;
+  font-family: Arial;
+  font-size: 12px;
+  line-height: 24px;
+  letter-spacing: 0.3px;
+  color: #445162;
+  padding: 12px;
+}
 /*# sourceMappingURL=stile.css.map */
